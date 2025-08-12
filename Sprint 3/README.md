@@ -1,4 +1,4 @@
-# 📊 Revenue Analysis of Megaline Prepaid Plans
+# Revenue Analysis of Megaline Prepaid Plans
 
 ## Overview
 This project analyzes user activity data from **Megaline's prepaid mobile plans** to determine which plan — **Surf** or **Ultimate** — is more profitable. 
