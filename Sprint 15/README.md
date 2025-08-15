@@ -87,13 +87,12 @@ pip install tensorflow pandas matplotlib
 ---
 
 ## How to Run
-```python
-# Train model
-train_data = load_train('/datasets/faces/')
-test_data = load_test('/datasets/faces/')
-model = create_model(input_shape=(224, 224, 3))
-model = train_model(model, train_data, test_data, batch_size=32)
-```
+
+Install Juypter Notebook
+
+Open Sprint 15.ipynb
+
+Install necessary libaries
 
 ---
 

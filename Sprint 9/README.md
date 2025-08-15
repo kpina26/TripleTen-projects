@@ -78,19 +78,8 @@ The model successfully identified this region as the optimal development site ba
 
 ## How to Run
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/oilygiant-mining-company.git
-```
-2. Navigate to the project folder:
-```bash
-cd oilygiant-mining-company
-```
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-4. Run the Jupyter Notebook:
-```bash
-jupyter notebook
-```
+Install Juypter Notebook
+
+Open Sprint 9.ipynb
+
+Install necessary libaries

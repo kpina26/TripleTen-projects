@@ -52,15 +52,12 @@ The **Random Forest Classifier** was selected as the best model due to its stron
 ```
 
 ## How to Run  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/megaline-mobile-project.git
-   cd megaline-mobile-project
-   ```
-2. Open the Jupyter Notebook:  
-   ```bash
-   jupyter notebook "Sprint 7.ipynb"
-   ```
+Install Juypter Notebook
+
+Open Sprint 7.ipynb
+
+Install necessary libaries
+
 
 ## Author  
 Kelvin Pina  

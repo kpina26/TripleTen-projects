@@ -29,32 +29,11 @@ significantly influence trip durations on Saturdays.
 ---
 
 ## How to Run
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/taxi-services-chicago.git
-   cd taxi-services-chicago
-   ```
+Install Juypter Notebook
 
-2. **Install required libraries**
-   Make sure Python 3.8+ is installed, then run:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scipy
-   ```
+Open Sprint 6.ipynb
 
-3. **Obtain the dataset**
-   - If local, place in a `datasets` folder as:
-     ```
-     datasets/taxi_data.csv
-     ```
-   - If remote, update the notebook path to the dataset URL provided by the source.
-
-4. **Open the Jupyter Notebook**
-   ```bash
-   jupyter notebook Sprint_6.ipynb
-   ```
-
-5. **Run the analysis**
-   Execute the cells in order to reproduce data exploration, visualizations, and statistical tests.
+Install necessary libaries
 
 ---
 

@@ -94,19 +94,12 @@ Two main statistical tests were performed (α = 0.05):
 ---
 
 ## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/megaline-revenue-analysis.git
-   cd megaline-revenue-analysis
-   ```
-2. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter Notebook:
-   ```bash
-   jupyter notebook Sprint_3.ipynb
-   ```
+Install Juypter Notebook
+
+Open Sprint 3.ipynb
+
+Install necessary libaries
+
 
 ---
 

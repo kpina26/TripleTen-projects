@@ -28,19 +28,12 @@ This solution can be integrated into an automated system to help the Film Junky 
 user-submitted movie reviews, improving the accuracy and fairness of the review platform.
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/film-junky-union.git
-   cd film-junky-union
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the notebook:
-   ```bash
-   jupyter notebook Sprint14.ipynb
-   ```
+
+Install Juypter Notebook
+
+Open Sprint 14.ipynb
+
+Install necessary libaries
 
 ## License
 This project is licensed under the MIT License.

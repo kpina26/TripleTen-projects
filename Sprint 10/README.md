@@ -84,14 +84,11 @@ Key groups of features (examples):
 ---
 
 ## 🚀 How to Run
-```bash
-# 1) Create environment and install deps
-pip install -r requirements.txt
+Install Juypter Notebook
 
-# 2) Launch the notebook
-jupyter notebook
-# open Sprint_10.ipynb (or your notebook file) and Run All
-```
+Open Sprint 10.ipynb
+
+Install necessary libaries
 
 ---
 

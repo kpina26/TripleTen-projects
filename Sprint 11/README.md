@@ -36,25 +36,11 @@ The main objectives were:
 ---
 
 ## Installation & Setup
-```bash
-# Clone this repository
-git clone https://github.com/your-username/insurance-customer-analysis.git
+Install Juypter Notebook
 
-# Navigate to project folder
-cd insurance-customer-analysis
+Open Sprint 11.ipynb
 
-# Install dependencies
-pip install -r requirements.txt
-```
-
----
-
-## Usage
-Open the Jupyter Notebook:
-```bash
-jupyter notebook Sprint11.ipynb
-```
-Run all cells to reproduce the analysis and results.
+Install necessary libaries
 
 ---
 

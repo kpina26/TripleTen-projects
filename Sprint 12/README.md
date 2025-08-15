@@ -67,20 +67,12 @@ Evaluated models based on:
 ---
 
 ## How to Run
-1. Clone the repository:
-```bash
-git clone <your-repo-link>
-cd <your-repo-folder>
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Place the dataset in the `datasets/` folder as `car_data.csv`.
-4. Run the Jupyter Notebook:
-```bash
-jupyter notebook Sprint_12.ipynb
-```
+
+Install Juypter Notebook
+
+Open Sprint 12.ipynb
+
+Install necessary libaries
 
 ---
 

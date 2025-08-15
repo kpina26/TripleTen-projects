@@ -41,32 +41,11 @@ The analysis explores historical video game sales data to identify trends and pa
 
 ## How to Run
 
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/yourusername/world-of-video-games.git
-   cd world-of-video-games
-   ```
+Install Juypter Notebook
 
-2. **Install required libraries**  
-   Make sure you have Python 3.8+ installed. Then run:  
-   ```bash
-   pip install pandas numpy matplotlib seaborn scipy
-   ```
+Open Sprint 5.ipynb
 
-3. **Obtain the dataset**  
-   - The notebook will first try to load `datasets/games.csv` if available locally.  
-   - If not found, it will automatically download from:  
-     ```
-     https://practicum-content.s3.us-west-1.amazonaws.com/datasets/games.csv
-     ```
-
-4. **Open the Jupyter Notebook**  
-   ```bash
-   jupyter notebook Sprint_5.ipynb
-   ```
-
-5. **Run the analysis**  
-   Execute the cells in order to reproduce the full data exploration, statistical tests, and insights.
+Install necessary libaries
 
 ---
 

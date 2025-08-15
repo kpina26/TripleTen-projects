@@ -95,19 +95,8 @@ Key columns:
 
 ## How to Run  
 
-1. Clone this repository:
-```bash
-git clone https://github.com/yourusername/beta-bank-churn-prediction.git
-```
-2. Navigate to the project folder:
-```bash
-cd beta-bank-churn-prediction
-```
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-4. Run the Jupyter Notebook:
-```bash
-jupyter notebook
-```
+Install Juypter Notebook
+
+Open Sprint 8.ipynb
+
+Install necessary libaries

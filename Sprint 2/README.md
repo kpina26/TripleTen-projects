@@ -118,24 +118,11 @@ Organic baby spinach
 - CSV data handling for multi-file dataset integration
 
 ## How to Run
-Clone this repository:
+Install Juypter Notebook
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/instacart-analysis.git
-Install dependencies:
+Open Sprint 2.ipynb
 
-bash
-Copy
-Edit
-pip install pandas matplotlib
-Run the Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook Sprint_2.ipynb
+Install necessary libaries 
 
 ## License
 This project is for educational purposes and uses public datasets provided by Instacart for analysis.

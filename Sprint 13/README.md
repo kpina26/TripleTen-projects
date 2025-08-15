@@ -70,20 +70,12 @@ The project successfully met the goal of achieving an RMSE below 48, confirming 
 ---
 
 ## How to Run
-1. Clone the repository:
-```bash
-git clone <your-repo-link>
-cd <your-repo-folder>
-```
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-3. Place `taxi.csv` in the `datasets/` folder.
-4. Run the Jupyter Notebook:
-```bash
-jupyter notebook Sprint_13.ipynb
-```
+
+Install Juypter Notebook
+
+Open Sprint 13.ipynb
+
+Install necessary libaries
 
 ---
 

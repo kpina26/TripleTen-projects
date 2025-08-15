@@ -46,16 +46,12 @@ This project focuses on predicting customer churn using various machine learning
 - Matplotlib, Seaborn
 
 ## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/churn-prediction.git
-   cd churn-prediction
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Open and run the Jupyter notebooks in the `notebooks` folder.
+
+Install Juypter Notebook
+
+Open Sprint 17.ipynb
+
+Install necessary libaries
 
 ## License
 This project is licensed under the MIT License.
